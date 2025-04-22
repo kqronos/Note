@@ -1,11 +1,11 @@
 import React from "react";
-import HighlightIcon from "@mui/icons-material/Highlight";
+import SvgIcon from '@mui/material/SvgIcon';
 
 export default function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
+        <SvgIcon />
         Creaza-ti notite
       </h1>
     </header>
